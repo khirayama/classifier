@@ -25,7 +25,7 @@ class Articles:
         url = item['url'][0] + '&p=' + str(page_num)
         item['url'].append(url)
 
-    # make article
+    # make Article
     for item in url_list_yahoo:
       for page_num in range(0, page - 1):
         d = pq(item['url'][page_num])
