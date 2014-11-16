@@ -12,3 +12,10 @@ SmartNewsやGunosyのようなキュレーションと同様のアルゴリズ�
 
 /dev/model
 - _じゃないディレクトリにちゃんと整理中....（手が回ってない（白目
+- Django使ってウェブアプリ & API提供までやってみる。
+
+参考  
+http://stmind.hatenablog.com/entry/2013/11/04/164608  
+http://yuku-tech.hatenablog.com/entry/20110623/1308810518  
+http://developer.smartnews.com/blog/2013/08/19/lda-based-channel-categorization-in-smartnews/  
+http://developer.smartnews.com/blog/2013/07/23/bayes-classification-based-channel-categorization-in-smartnews/  
